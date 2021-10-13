@@ -1,0 +1,11 @@
+GET https://jsonplaceholder.typicode.com/todos/1
+Accept: application/json
+
+> jsonplaceholder.js
+
+
+<> 2021-10-13T114130.200.json
+<> 2021-10-13T113738.200.json
+<> 2021-10-13T113727.200.json
+
+###
